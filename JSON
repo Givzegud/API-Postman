@@ -1,0 +1,18 @@
+{
+"title": "mr",
+"firstName": "Egor",
+"lastName": "Givzegud",
+"gender": "male" ,
+"email": "Givzegud12312@yandex.ru" ,
+"dateOfBirth": "09/25/1997" ,
+"phone": "+7(909)090-90-10",
+"picture": "http:/myfoto.com",
+"location": 
+    {
+        "street" : "Pr.Mira",
+        "city" : "Sochi" ,
+        "state" : "Sochi" ,
+        "country" : "Russia" ,
+        "timezone" : "+7:00"
+    }
+}
